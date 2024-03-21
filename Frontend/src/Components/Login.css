@@ -1,0 +1,31 @@
+        body{
+            /* background-size: 600px; */
+            background-position:center;
+            background-repeat: no-repeat;
+            /* background:linear-gradient(270deg, rgb(239, 235, 188), rgb(139, 139, 119)); */
+            
+          
+        }
+        .Signup-link{
+            text-decoration: none;
+        }
+        .inp{
+            border-radius: 5px;
+            border-top: 0;
+            border-right: 0;
+            border-left:0 ;
+            padding-left: 15px;
+        }
+        .card{
+            border: none;
+            border-radius: 10px;
+            background:linear-gradient(270deg, rgb(239, 235, 188), rgb(139, 139, 119));
+        }
+        .btn{
+            font-size: 20px;
+            border-radius: 10px;
+        }
+        .txt{
+            color: rgb(135, 135, 111);
+        }
+    
